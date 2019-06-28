@@ -1,0 +1,64 @@
+body {
+    background: #020e21;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    margin-bottom: 15px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.hangman {
+    background: red;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Press Start 2P', cursive;
+}
+#hiddenGameWord {
+    text-align: center;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 32px;
+}
+.lettersGuessed, #lettersGuessed {
+    text-align: center;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 16px;
+}
+
+.lives {
+    text-align: center;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+.hidden {
+    text-align: center;
+}
+
+.gameBox {
+    border: solid yellow 2px;
+}
+
+.instruction {
+    text-align: center;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 70px;
+}
+.copyright {
+    text-align: right;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    margin-right: 300px;
+    margin-top: 5px;
+    font-size: 16px;
+}
